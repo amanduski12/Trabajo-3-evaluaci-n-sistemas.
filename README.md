@@ -57,7 +57,7 @@ Office / LibreOffice
 
 Adobe Reader
 
-📄 Más info: software.md
+ Más info: software.md
 
  6. Seguridad
 Firewall activado
