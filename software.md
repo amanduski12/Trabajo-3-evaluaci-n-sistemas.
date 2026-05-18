@@ -6,7 +6,7 @@ Este documento recoge el software instalado en los equipos de la empresa y su fi
 
 ## 1. Navegador Web
 
-### ✔ Google Chrome
+###  Google Chrome
 - Navegador principal para los empleados.
 - Compatible con aplicaciones web empresariales.
 - Rápido y seguro.
@@ -15,7 +15,7 @@ Este documento recoge el software instalado en los equipos de la empresa y su fi
 
 ## 2. Suite Ofimática
 
-### ✔ Microsoft Office / LibreOffice
+###  Microsoft Office / LibreOffice
 Incluye:
 - Procesador de textos
 - Hojas de cálculo
@@ -30,11 +30,11 @@ Uso:
 
 ## 3. Herramientas de Utilidad
 
-### ✔ 7-Zip
+###  7-Zip
 - Compresión y descompresión de archivos.
 - Compatible con ZIP, RAR, 7z y más.
 
-### ✔ Adobe Acrobat Reader
+###  Adobe Acrobat Reader
 - Lectura de documentos PDF.
 - Imprescindible para facturas, informes y manuales.
 
