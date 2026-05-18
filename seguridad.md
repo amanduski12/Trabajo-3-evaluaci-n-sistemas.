@@ -22,7 +22,7 @@ Este documento recoge las medidas de seguridad aplicadas al sistema operativo Wi
 
 ## 3. Antivirus
 
-### ✔ Microsoft Defender Antivirus
+###  Microsoft Defender Antivirus
 - Protección en tiempo real.
 - Análisis periódicos automáticos.
 - Base de firmas actualizada.
