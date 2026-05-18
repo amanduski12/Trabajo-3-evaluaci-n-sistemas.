@@ -6,10 +6,10 @@ Este documento describe la creación, configuración y administración de usuari
 
 ## 1. Tipos de usuarios creados
 
-### ✔ Administrador
+###  Administrador
 Usuario con permisos completos para instalar software, modificar configuraciones y administrar el sistema.
 
-### ✔ Usuario estándar
+###  Usuario estándar
 Usuarios destinados a los empleados de la empresa.  
 Tienen permisos limitados para evitar cambios críticos en el sistema.
 
